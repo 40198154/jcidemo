@@ -1,5 +1,7 @@
 package uk.ac.qub.eeecs.dave;
 
+import uk.ac.qub.eeecs.dave.Calculator;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
